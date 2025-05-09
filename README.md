@@ -27,11 +27,11 @@ Each `.pdf` in this repository has:
 ## 📂 File Structure
 
 ```plaintext
-[year]{month}/
-├── Paper_Title_v1.2_SIGNED_KAS_2025-05-09.pdf
-├── Paper_Title_v1.2_SIGNED_KAS_2025-05-09.sha256
-├── Paper_Title_v1.2_SIGNED_KAS_2025-05-09.meta.txt
-├── KAS_audit.log
+[year]{month}/Paper_Title_v1.2_SIGNED_KAS_2025-05-09.zip
+      ├── Paper_Title_v1.2_SIGNED_KAS_2025-05-09.pdf
+      ├── Paper_Title_v1.2_SIGNED_KAS_2025-05-09.sha256
+      ├── Paper_Title_v1.2_SIGNED_KAS_2025-05-09.meta.txt
+      ├── KAS_audit.log
 ```
 
 ---
